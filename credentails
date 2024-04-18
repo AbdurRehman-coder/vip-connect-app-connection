@@ -1,0 +1,15 @@
+
+// vip connect bundle id/ package name for android
+'com.vipconnect.app.vip_connect'
+
+//vip connect bundle identifier for ios
+'com.vipconnect.app.vipConnect'
+
+// APNs Server key for FCM
+ key iD: 3PR69TWC7L
+
+// Apple Team ID for FCM
+ 3Y39W2V568
+
+ /// YOUR SERVER KEY
+  const String serverKey = 'AAAA2LkhPvM:APA91bHkLLySnzdzbMTv0ELvUomLDDSaax0drnhklj1Credpj-qDapRTSpEE1sPhclhSjumclrSdqUKqDFol_Rqg43jv_zMJd_IIiW8mZNoK2R0b4-7UJ97MJPqsMQAuChLt9k2pwG2G';

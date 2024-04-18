@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930818899699",
+    "project_id": "vip-connect-android",
+    "storage_bucket": "vip-connect-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930818899699:android:11ec947b20d202d5898186",
+        "android_client_info": {
+          "package_name": "com.vipconnect.app.vip_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930818899699-nki9noqivian7dsj5v35is6k8fgfad9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUhTOo53xMlXEuTjtovykY2eVGa2R-k7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930818899699-nki9noqivian7dsj5v35is6k8fgfad9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
